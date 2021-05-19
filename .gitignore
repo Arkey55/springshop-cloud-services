@@ -1,0 +1,4 @@
+# Project exclude paths
+/eureka-server-app/target/
+/front-app/target/
+/product-app/target/
